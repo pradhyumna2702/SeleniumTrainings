@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="TestNG sessions test automation suite ">
+	<test name=" Different testing testNG features">
+	<parameter name="browser" value="Firefox"/>
+		<classes>
+			<class name="testNGSessions.TestNGBasics" />
+			<class name="testNGSessions.GoogleTest" />
+			<class name="testNGSessions.TestNGFeatures" />
+		</classes>
+	</test>
+</suite>
+

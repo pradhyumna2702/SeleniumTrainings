@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="82595" started-at="2020-01-10T07:08:25Z" finished-at="2020-01-10T07:09:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="82595" started-at="2020-01-10T07:08:25Z" finished-at="2020-01-10T07:09:48Z">
+      <class name="com.datadriven.test.DataProviderConcept">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.datadriven.test.DataProviderConcept@c46bcd4]" name="setUp" is-config="true" duration-ms="25016" started-at="2020-01-10T07:08:26Z" finished-at="2020-01-10T07:08:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="launchRegPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.datadriven.test.DataProviderConcept@c46bcd4]" name="launchRegPage" duration-ms="1412" started-at="2020-01-10T07:08:51Z" data-provider="getTestData" finished-at="2020-01-10T07:08:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MR]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tom]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Peter]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9878686768]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[test@1234]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[15/01/1999]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[tom@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchRegPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.datadriven.test.DataProviderConcept@c46bcd4]" name="tearDown" is-config="true" duration-ms="897" started-at="2020-01-10T07:08:53Z" finished-at="2020-01-10T07:08:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.datadriven.test.DataProviderConcept@c46bcd4]" name="setUp" is-config="true" duration-ms="16277" started-at="2020-01-10T07:08:53Z" finished-at="2020-01-10T07:09:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="launchRegPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.datadriven.test.DataProviderConcept@c46bcd4]" name="launchRegPage" duration-ms="1744" started-at="2020-01-10T07:09:10Z" data-provider="getTestData" finished-at="2020-01-10T07:09:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MRS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[varsha]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ranjan]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9892432535]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[test@12345]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[15/01/1997]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[var@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchRegPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.datadriven.test.DataProviderConcept@c46bcd4]" name="tearDown" is-config="true" duration-ms="822" started-at="2020-01-10T07:09:11Z" finished-at="2020-01-10T07:09:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.datadriven.test.DataProviderConcept@c46bcd4]" name="setUp" is-config="true" duration-ms="15384" started-at="2020-01-10T07:09:12Z" finished-at="2020-01-10T07:09:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="launchRegPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.datadriven.test.DataProviderConcept@c46bcd4]" name="launchRegPage" duration-ms="1682" started-at="2020-01-10T07:09:28Z" data-provider="getTestData" finished-at="2020-01-10T07:09:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MR]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pradhyumna]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[madhusudan]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9878686768]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[test@9786]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[15/01/1994]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[prad@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchRegPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.datadriven.test.DataProviderConcept@c46bcd4]" name="tearDown" is-config="true" duration-ms="1007" started-at="2020-01-10T07:09:29Z" finished-at="2020-01-10T07:09:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.datadriven.test.DataProviderConcept@c46bcd4]" name="setUp" is-config="true" duration-ms="15089" started-at="2020-01-10T07:09:30Z" finished-at="2020-01-10T07:09:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="launchRegPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.datadriven.test.DataProviderConcept@c46bcd4]" name="launchRegPage" duration-ms="1732" started-at="2020-01-10T07:09:45Z" data-provider="getTestData" finished-at="2020-01-10T07:09:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MRS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ranj]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sha]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[8976876783]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[test@87y43]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[15/01/1992]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[ran@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchRegPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.datadriven.test.DataProviderConcept@c46bcd4]" name="tearDown" is-config="true" duration-ms="822" started-at="2020-01-10T07:09:47Z" finished-at="2020-01-10T07:09:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.datadriven.test.DataProviderConcept -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
